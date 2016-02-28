@@ -5,7 +5,8 @@
 
     <dimen name="h1">30sp</dimen>
     <dimen name="h2">20sp</dimen>
-    <dimen name="icon">120dp</dimen>
+    <dimen name="icon">200dp</dimen>
     <dimen name="edit">250dp</dimen>
+
 
 </resources>
